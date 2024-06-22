@@ -1,4 +1,4 @@
-# É necessario instalar as bibliotecas:
+# Bibliotecas externas:
 
 - pip install PyQt5  
 - pip install PyqtWebEngine  
